@@ -33,8 +33,21 @@ Esta opción se sugiere realizarla después de hacer el pago de la primera factu
 ## 💰 Pagos
 
 <details>
-<summary>¿Cómo descargo mi recibo?</summary>
+<summary>¿Puedo pagar mi recibo por Nequi /Daviplata??</summary>
 
-En el Sistema Académico → Estado Financiero.
+  Si, eligiendo la opción de pago en línea (pago por PSE)
+
+</details>
+
+<details>
+<summary>¿ Cómo reimprimo mi  recibo de pago?</summary>
+
+  Para reimprimir el recibo de pago de debe ingresar al siguiente enlace: https://rca.unad.edu.co/moodle/servicios/inicio.php
+
+
+  Ubíquese en la parte central y digite su número de documento.
+  En la opciòn de “Trámite” seleccione “Reimpresión de Factura de Matrícula “.
+  En la opción de "Período Académico" seleccione el  período en el cuál se matriculó.
+  Y finamente da clic en "CONSULTAR"  luego clic en "GENERAR".
 
 </details>
