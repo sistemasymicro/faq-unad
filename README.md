@@ -17,6 +17,20 @@ Respuestas a las preguntas más frecuentes realizadas por estudiantes de la UNAD
 
 </details>
 
+<details>
+<summary>¿ Cómo se en qué semestre estoy? </summary>
+
+  Debes usar la siguiente fórmula:
+  semestre_actual = (#creditos_aprobados*9)/149
+
+  Ejemplo: Si llevas 82 créditos aprobados, nos quedaría:
+
+  semestre_actual = (84*9)/149 = 5.07
+
+  Redondeando el valor obtenido, estarias en Quinto semestre.
+
+</details>
+
 ---
 
 ## 📚 Admisiones
