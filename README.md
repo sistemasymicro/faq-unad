@@ -10,6 +10,13 @@ Respuestas a las preguntas más frecuentes realizadas por estudiantes de la UNAD
 
 </details>
 
+<details>
+<summary>¿Cuántos semestres/ créditos tiene la  carrera de ingeniería de sistemas?</summary>
+
+  Está compuesta por 9 (nueve) semestres y tiene 149 créditos.
+
+</details>
+
 ---
 
 ## 📚 Admisiones
