@@ -65,7 +65,9 @@ Esta opción se sugiere realizarla después de hacer el pago de la primera factu
 
 </details>
 
-🎓 Opciones de grado
+---
+
+## 🎓 Opciones de grado
 
 <details>
 <summary>¿Cuáles son las opciones de grado gratuitas en Ing. de sistemas?</summary>
