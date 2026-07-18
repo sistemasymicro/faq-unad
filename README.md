@@ -29,6 +29,27 @@ Esta opción se sugiere realizarla después de hacer el pago de la primera factu
 
 ---
 
+## 📝 Cursos o asignaturas
+
+<details>
+
+  <summary>¿Cuáles son las electivas que son solo cuestionarios o evaluaciones?</summary>
+
+  - Actividad física para la salud
+  - Salud Oral
+  - Danza
+  
+</details>
+
+<details>
+
+  <summary>¿Puedo matricular cursos de un semestre superior al que estoy cursando?</summary>
+
+  Aunque lo recomendable es seguir en orden el contenido de la malla curricular, si se desea, puedes matricular cursos de un semestre superior, siempre y cuando ese curso no tenga un pre-requisito (curso que se debe aprobar antes de cursar el curso siguiente)
+  
+</details>
+
+
 ## 💰 Pagos
 
 <details>
