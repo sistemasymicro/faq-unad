@@ -33,6 +33,15 @@ Esta opción se sugiere realizarla después de hacer el pago de la primera factu
 
 <details>
 
+  <summary>¿El curso del PRESTACIÓN DE SERVICIO SOCIAL es obligatorio ?</summary>
+
+  SI Y SOLO SI, el curso es un requisito de grado, por lo tanto es obligatorio su realización y aprobación.
+  Se puede cursar en cualquier período ( del I al IX semestre), después de haber cursado el curso de catedra unadista.
+  
+</details>
+
+<details>
+
   <summary>¿Cuáles son las electivas que son solo cuestionarios o evaluaciones?</summary>
 
   - Actividad física para la salud
