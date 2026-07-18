@@ -51,3 +51,17 @@ Esta opción se sugiere realizarla después de hacer el pago de la primera factu
   Y finamente da clic en "CONSULTAR"  luego clic en "GENERAR".
 
 </details>
+
+<details>
+<summary>¿Cuánto tiempo tarda en reflejarse mi pago?</summary>
+
+  Hasta 48 horas hábiles (no incluye sábados, domingos o festivos) despuéds de realizado el pago.
+
+</details>
+
+<details>
+<summary>¿Cuánto tiempo tarda en aparecer mis cursos matriculados en la plataforma?</summary>
+
+  Los cursos matriculados en la UNAD suelen reflejarse en la plataforma entre 48 y 72 horas hábiles después de haber realizado y       confirmado el pago del recibo de matrícula. Sin embargo, ten en cuenta que los cursos no se habilitarán para empezar a trabajar en ellos hasta la fecha oficial de inicio del periodo académico correspondiente
+
+</details>
