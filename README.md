@@ -1,6 +1,16 @@
 # FAQ - Universidad
 Respuestas a las preguntas más frecuentes realizadas por estudiantes de la UNAD
 
+## General
+
+<details>
+<summary>¿Dónde descargo la malla curricular o pensum de la carrera?</summary>
+
+  Aqui: https://estudios.unad.edu.co/images/2025/mallas-pdf/Plan-de-estudios-Ingenieria-de-sistemas.pdf
+
+</details>
+
+
 ## 📚 Admisiones
 
 <details>
