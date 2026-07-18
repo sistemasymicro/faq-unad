@@ -1,7 +1,7 @@
 # FAQ - Universidad
 Respuestas a las preguntas más frecuentes realizadas por estudiantes de la UNAD
 
-🗂️ ## General
+## 🗂️  General
 
 <details>
 <summary>¿Dónde descargo la malla curricular o pensum de la carrera?</summary>
@@ -10,6 +10,7 @@ Respuestas a las preguntas más frecuentes realizadas por estudiantes de la UNAD
 
 </details>
 
+---
 
 ## 📚 Admisiones
 
