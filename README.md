@@ -64,3 +64,23 @@ Esta opción se sugiere realizarla después de hacer el pago de la primera factu
   Los cursos matriculados en la UNAD suelen reflejarse en la plataforma entre 48 y 72 horas hábiles después de haber realizado y       confirmado el pago del recibo de matrícula. Sin embargo, ten en cuenta que los cursos no se habilitarán para empezar a trabajar en ellos hasta la fecha oficial de inicio del periodo académico correspondiente
 
 </details>
+
+🎓 Opciones de grado
+
+<details>
+<summary>¿Cuáles son las opciones de grado gratuitas en Ing. de sistemas?</summary>
+
+ - Trabajo aplicado de grado - (75% de los créditos cursados y aprobados)
+ - Monografía - (75% de los créditos cursados y aprobados)
+ - Proyecto de investigación - (75% de los créditos cursados y aprobados)
+ - Pasantía - (90% de los créditos cursados y aprobados)
+ 
+</details>
+
+<details>
+<summary>¿Cuáles son las opciones de grado pagas en Ing. de sistemas?</summary>
+
+ - Diplomado de profundización - (90% de los créditos cursados y aprobados)
+ - Créditos de posgrado - (90% de los créditos cursados y aprobados)
+ 
+</details>
