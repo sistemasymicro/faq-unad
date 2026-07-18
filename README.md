@@ -42,6 +42,17 @@ Esta opción se sugiere realizarla después de hacer el pago de la primera factu
 
 <details>
 
+  <summary>Cómo se desarrola el curso de PRESTACIÓN DE SERVICIO SOCIAL?</summary>
+
+  En este curso (obligatorio), hay que realizar una actividad con la comunidad, relacionada con el programa que estamos estudiando, en nuestro caso, que somos del programa de ingeniería de sistemas se pueden realizar por ejemplo: capacitaciones a personas con poco conocimiento en tecnología (afalbetización tecnológica).
+  El curso se desarrolla en cuatro fases. En la tercera fase es donde se realiza la actividad propuesta con la comunidad.
+
+  Hay que capturas de evidencias multimedia (videos y fotos de la actividad), la cual se debe montar en la plataforma X (antes Twitter).
+  
+</details>
+
+<details>
+
   <summary>¿Cuáles son las electivas que son solo cuestionarios o evaluaciones?</summary>
 
   - Actividad física para la salud
